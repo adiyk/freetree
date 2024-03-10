@@ -1,0 +1,2 @@
+# freetree
+Tea testnet only
